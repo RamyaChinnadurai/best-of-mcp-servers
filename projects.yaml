@@ -118,6 +118,13 @@ categories:
     subtitle: MCP servers for other tools and integrations
 
 projects:
+  - name: RamyaChinnadurai/agentmash-mcp
+    github_id: RamyaChinnadurai/agentmash-mcp
+    homepage: https://agentmash.ai
+    description: >-
+      Remote MCP server that lets AI agents search and read your
+      saved posts and bookmarks from social platforms.
+    category: knowledge-and-memory
   - name: firecrawl/firecrawl-mcp-server
     github_id: firecrawl/firecrawl-mcp-server
     description: >-
